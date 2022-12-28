@@ -1,0 +1,10 @@
+Aplicativos instalados:
+Netflix
+HBO
+Time
+Disney
+Amazon
+informações da tv: 
+ligada: 0
+marca: Samsung
+so: Android
